@@ -6,6 +6,10 @@ This is a CLI to use a simple sentiment analysis machine learning model
 ```bash
 python sentistonks.py
 ```
+or
+```bash
+python sentistonks.py --tweet "<TEXT HERE>"
+```
 # How it Works
 * 3,000 tweets were collected and manually annotated as *POSITIVE*, *NEGATIVE* or *NEUTRAL*
 * The sentiment model is a logistic regression trained on the preprocessed version of these tweets
