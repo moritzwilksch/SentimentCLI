@@ -1,6 +1,9 @@
 # SentimentCLI
 This is a CLI to use a simple sentiment analysis machine learning model
+
+<p align="center">
 <img width="565" alt="image" src="https://user-images.githubusercontent.com/58488209/136592024-a6e74173-0edf-4a71-8e26-42338a111272.png">
+</p>
 
 # Usage
 ```bash
